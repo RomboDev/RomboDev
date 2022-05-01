@@ -1,4 +1,4 @@
-Non-exponential 'random walk' subsurface scattering for skin. 
+Non-exponential 'random walk' SSS for skin. 
 directional dipole for teeth. 
 diffusion for eyes. 
 multi-scale flakes for the silver glitters.
