@@ -1,3 +1,4 @@
+Non-exponential subsurface scattering for skin. directional dipole for teeth. diffusion for eyes. multi-scale flakes for the silver glitters.
 ![Screenshot1](https://www.rombo.tools/wp/wp-content/uploads/2022/01/tawoman_flakesmakeup_1440_trans025x.png)
 
 <!--
