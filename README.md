@@ -1,6 +1,6 @@
 
 
-![cover](https://www.rombo.tools/wp/wp-content/uploads/2020/12/NikonS3_008-1440y.png)
+![cover](https://www.rombo.tools/wp/wp-content/uploads/2023/06/hamburger-2.jpg)
 <!--
 **RomboDev/RomboDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
