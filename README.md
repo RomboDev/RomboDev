@@ -1,6 +1,4 @@
-
-![Screenshot1]([https://www.rombo.tools/wp/wp-content/uploads/2022/01/tawoman_flakesmakeup_1440_trans025x.png](https://www.rombo.tools/wp/wp-content/uploads/2023/06/hamburger-2.jpg))
-
+![]([<path_to_image>](https://www.rombo.tools/wp/wp-content/uploads/2023/06/hamburger-2.jpg)) 
 <!--
 **RomboDev/RomboDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
