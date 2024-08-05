@@ -1,4 +1,4 @@
-
+Random walk subsurface scattering with Dwivedi sampling.
 
 ![cover](https://www.rombo.tools/wp/wp-content/uploads/2023/06/hamburger-2.jpg)
 <!--
